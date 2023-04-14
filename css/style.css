@@ -9,7 +9,7 @@ body {
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #2F3E46;
   text-align: left;
   /* min-width: 500px; */
   font-family: Work Sans;
@@ -45,7 +45,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #354F52;
   padding: 10px 0px 10px 10px;
 }
 
@@ -94,7 +94,7 @@ img {
 }
 
 .bio {
-color: #ffffff;
+color: #CAD2C5;
 font-size: 24px;
 font-family: 'Work Sans';
 }
